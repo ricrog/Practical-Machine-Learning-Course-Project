@@ -1,12 +1,3 @@
----
-output:
-  html_document: default
----
-
-```{r setup, include=FALSE}
-knitr::opts_chunk$set(echo = TRUE)
-```
-
 # Practical Machine Learning Course Project
 By Riccardo Roganti, Date: "17th May 2017"
 
